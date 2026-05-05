@@ -1,3 +1,5 @@
+![Tema 1](../img/tema1.png "Tema 1")
+
 ## Comentarios
 
 Son notas dentro del código que el servidor ignora por completo; sirven para explicar, documentar o aclarar qué hace el programa.
@@ -69,4 +71,3 @@ Son ideales cuando quieres asociar etiquetas con significado a los valores, como
     3. Decremento previo: (--$a)
     4. Decremento posterior: ($a--)
 
-![Tema 1](img/Tema_1.png "Tema 1")
