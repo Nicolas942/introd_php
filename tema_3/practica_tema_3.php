@@ -5,18 +5,18 @@
 
     saludar();
 
-    /*function saludarUsuario($nombre){
+    function saludarUsuario($nombre){
         echo "Bienvendo " . $nombre;
     }
 
-    saludarUsuario("Fontecha");*/
+    saludarUsuario("Fontecha");
 
     
-    /*function sumar($a, $b){
+    function sumar($a, $b){
         return $a + $b;
     }
 
     $resultado = sumar(5, 10);
 
-    echo $resultado;*/
+    echo $resultado;
 ?>
